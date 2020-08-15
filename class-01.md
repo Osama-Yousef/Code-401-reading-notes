@@ -38,6 +38,7 @@ exponential - starting off very shallow, then rising meteorically
   * manage your projects’ dependencies,
   * separate your projects through virtual environments,
   * build both applications as well as libraries without headaches.
+  
 
 * Before we start using poetry to create our first project ,we must configuring it, such that it creates your project’s virtual environment in a .venv
 folder inside the project directory
