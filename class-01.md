@@ -33,6 +33,7 @@ exponential - starting off very shallow, then rising meteorically
 * you can use pyenv to install almost any python interpreter, including pypy, and anaconda,etc ..
 ### Dependency Management
 * `Poetry : ` comes with all the tools you might need to manage your projects dependencies in a deterministic way.
+
 ***poetry helps you to easily :***
   * manage your projects’ dependencies,
   * separate your projects through virtual environments,
