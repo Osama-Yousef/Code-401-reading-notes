@@ -43,43 +43,67 @@ exponential - starting off very shallow, then rising meteorically
 folder inside the project directory
 
 > poetry config settings.virtualenvs.in-project true
+
 > poetry config virtualenvs.in-project true
 
 ***Initialze a new project***
+
 > poetry new dsexample 
+
 > cd dsexample
+
 ***Add modules and create virtual environment.***
+
 > poetry add pandas=0.25 fastapi --extras all
+
 ***As an example of how you could add a git module***
+
 > poetry add tf2-utils --git git@github.com:Shawe82/tf2-utils.git
 
 * `Black `: is a tool for python that allows you to focus on what is necessary, the content
+
 ***We add black as a development dependency with --dev as we don't need it when it comes to production***
+
 > poetry add --dev black=19.3b0
+
 ***Assume we are inside the current toplevel dsexample folder***
+
 > poetry run black .
 
 * `Mypy`: is a static type checker for python code, that finds errors before they appear. Adding mypy and type-checking to your project using poetry 
 is as easy as adding black
+
 ***We add mypy as a development dependency with --dev as we don't need it when it comes to production***
+
 > poetry add --dev mypy
+
 ***Assume we are inside the current toplevel dsexample folder***
+
 > poetry run mypy .
 
 * `Pre-commit`: is a tool that executes checks before you commit code to your repository (I took for granted that your code is under git version control)
+
 ***Install pre-commit into the tools virtual env***
+
 > pyenv activate tools
+
 > pip install pre-commit 
+
 ***Leave the virtual env***
+
 > pyenv deactivate
+
 ***As we have already added the tool venv, it will work directly***
+
 > pre-commit --version
 
 ***To use it, you first need to add a config file called .pre-commit-config.yaml to the top-level folder of your project. In that file, you configure all the hooks
  that should run.***
+ 
 ##### Last, you must tell pre-commit to set up the hooks by executing
 
 ***I assume your are in the top level folder***
+
 > pre-commit install
 
 
