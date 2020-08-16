@@ -6,7 +6,7 @@
 Read #    |    Read topic / link
 ------    | ------------------
 Read 1    | ***Pain vs. Suffering / A beginner's guide to Big O notation / names and values in Python / Awesome Python Environment         [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-01 )***
-Read 2    | 
+Read 2    | ***Python mudukes and packages/ pytest / recursion / lists / strings   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-02 )***
 Read 3    | 
 Read 4    | 
 Read 5    | 
