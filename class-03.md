@@ -50,11 +50,14 @@ have the program throw an `AssertionError` exception.
 ### The try and except Block: Handling Exceptions
 * The` try` and `except` block in Python is used to catch and handle exceptions. Python executes code following the `try` statement as a “normal” part of
 the program. The code that follows the `except` statement is the program’s response to any exceptions in the preceding `try` clause.
-***useful notes about `try` and `except`
+
+***useful notes about `try` and `except`***
+
   * A `try` clause is executed up until the point where the first exception is encountered.
 
   * Inside the `except` clause, or the exception handler, you determine how the program responds to the exception.
   * You can anticipate multiple exceptions and differentiate how the program should respond to them.
+  
 
 ### The `else` Clause
 * In Python, using the `else` statement, you can instruct a program to execute a certain block of code only in the absence of exceptions.
