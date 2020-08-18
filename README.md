@@ -7,8 +7,8 @@ Read #    |    Read topic / link
 ------    | ------------------
 Read 1    | ***Pain vs. Suffering / A beginner's guide to Big O notation / names and values in Python / Awesome Python Environment         [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-01 )***
 Read 2    | ***Python mudukes and packages/ pytest / recursion / lists / strings   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-02 )***
-Read 3    | ***classes and objects / thinking recurisevely / Pytest fixtures and coverage   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-04 )***
-Read 4    | 
+Read 3    | ***read and write files in python / Exceptions   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-03 )***
+Read 4    | ***classes and objects / thinking recurisevely / Pytest fixtures and coverage   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-04 )***
 Read 5    | 
 Read 6    | 
 Read 7    | 
