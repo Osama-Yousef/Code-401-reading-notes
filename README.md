@@ -9,7 +9,7 @@ Read 1    | ***Pain vs. Suffering / A beginner's guide to Big O notation / names
 Read 2    | ***Python mudukes and packages/ pytest / recursion / lists / strings   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-02 )***
 Read 3    | ***read and write files in python / Exceptions   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-03 )***
 Read 4    | ***classes and objects / thinking recurisevely / Pytest fixtures and coverage   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-04 )***
-Read 5    | 
+Read 5    | ***linked lists / Big O Notation   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-05 )***
 Read 6    | 
 Read 7    | 
 Read 8    |    
