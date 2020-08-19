@@ -13,10 +13,16 @@ reference points to the `Next` node in a linked list.
 `Next` and `Previous` node.
 * `Next` : This property contains the reference to the next node.
 * `Head` : This property contains the reference to the first node in a linked list.
+
+
 ***The best way to traverse through a linked list is using of a while() loop not forEach or for loop***
 
+
 * `Current`: is node that will tell us where exactly in the linked list we are and will allow us to move/traverse forward until we hit the end.
+
+
 ***When constructing your code, a few things to keep in mind :***
+
 
   * When making your `Node` class, consider requiring a value to be passed in to require that each node has a value.
 
