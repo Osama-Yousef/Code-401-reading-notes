@@ -11,25 +11,25 @@
 * Ex : 
 * `import random`
 * `print random.randint(0, 5)`
-
+--------------------------------------
 * `Random` : 
 * If you want a larger number, you can multiply it.
 * Ex :
 * `import random`
 * `random.random() * 100`
-
+--------------------------------------
 * `Choice` : Generate a random value from the sequence , or random value from a list 
 * Ex
 * `import random`
 * `myList = [2, 109, False, 10, "Lorem", 482, "Ipsum"]`
 * `random.choice(myList)`
-
+---------------------------------------
 * Shuffle : shuffles the elements in list in place, so they are in a random order.
 * Ex
 * `from random import shuffle`
 * `x = [[i] for i in range(10)]`
 * `shuffle(x)`
-
+-------------------------------------
 * `Randrange` : Generate a randomly selected element from range(start, stop, step)
 * Ex
 * `import random`
@@ -42,7 +42,11 @@
 * it highlights the potential problem areas. After knowing about the risk areas, it helps the developers and managers to mitigate the risks. When a test
 plan has been created, risks involved in testing the product are to be taken into consideration along with the possibility of the damage they may cause 
 to your software along with solutions.
+
+
 ***possible risks that you could encounter :***
+
+
   * Use of new hardware
 
   * Use of new technology
