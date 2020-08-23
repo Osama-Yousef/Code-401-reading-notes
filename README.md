@@ -11,7 +11,7 @@ Read 3    | ***read and write files in python / Exceptions   [go to]( https://os
 Read 4    | ***classes and objects / thinking recurisevely / Pytest fixtures and coverage   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-04 )***
 Read 5    | ***linked lists / Big O Notation   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-05 )***
 Read 6    | ***How to use random module / what is risk analysis / dependency injection  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-06 )***
-Read 7    | 
+Read 7    | ***Global scope / global statement / nonlocal statement  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-07 )***
 Read 8    |    
 Read 9    | 
 Read 10   | 
