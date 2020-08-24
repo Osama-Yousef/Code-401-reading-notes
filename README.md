@@ -12,9 +12,10 @@ Read 4    | ***classes and objects / thinking recurisevely / Pytest fixtures and
 Read 5    | ***linked lists / Big O Notation   [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-05 )***
 Read 6    | ***How to use random module / what is risk analysis / dependency injection  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-06 )***
 Read 7    | ***Global scope / global statement / nonlocal statement  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-07 )***
-Read 8    |    
+Read 8    | ***List Comprehensions in Python  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-08 )***
 Read 9    | 
 Read 10   | 
+
 Read 11   | 
 Read 12   | 
 Read 13   |  
