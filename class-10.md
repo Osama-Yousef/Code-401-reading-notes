@@ -21,24 +21,25 @@
 * Pushing a Node onto a stack will always be an `O(1)` operation. This is because it takes the same amount of time no matter how many
    Nodes (n) you have in the stack.
 * When adding a Node, you push it into the stack by assigning it as the new top, with its next property equal to the original top.
+
 * `ALOGORITHM push(value)`
-` INPUT <-- value to add, wrapped in Node internally`
-`OUTPUT <-- none`
-   `node = new Node(value)`
-   `node.next <-- Top`
-  `top <-- Node`
+* ` INPUT <-- value to add, wrapped in Node internally`
+* `OUTPUT <-- none`
+* `node = new Node(value)`
+* `node.next <-- Top`
+* `top <-- Node`
 * Popping a Node off a stack is the action of removing a Node from the top. When conducting a pop, the top Node will be re-assigned to the Node that 
 lives below and the top Node is returned to the user.
 * `ALGORITHM pop()`
 
-   `Node temp <-- top`
-   `top <-- top.next`
-   `temp.next <-- null`
-    `return temp.value`
+* `Node temp <-- top`
+* `top <-- top.next`
+* `temp.next <-- null`
+*`ret urn temp.value`
 * When conducting a peek, you will only be inspecting the top Node of the stack.
 ### What is a Queue ?
 ***Common terminology for a queue is:***
-  * Enqueue - Nodes or items that are added to the queue.
+  * `Enqueue` - Nodes or items that are added to the queue.
 
   * `Dequeue` - Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised.
 
