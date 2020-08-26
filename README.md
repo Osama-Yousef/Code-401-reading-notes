@@ -14,7 +14,7 @@ Read 6    | ***How to use random module / what is risk analysis / dependency inj
 Read 7    | ***Global scope / global statement / nonlocal statement  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-07 )***
 Read 8    | ***List Comprehensions in Python  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-08 )***
 Read 9    | ***dunder methods / probability  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-09 )***
-Read 10   | 
+Read 10   | ***stacks and queues [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-10 )***
 
 Read 11   | 
 Read 12   | 
