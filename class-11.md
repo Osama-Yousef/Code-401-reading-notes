@@ -80,7 +80,9 @@ quite easy to do computations.
 * NumPy makes it possible to test to see if rows match certain values using mathematical comparison operations like `<, >, >=, <=, and ==`
 * With NumPy, it’s very common to combine multiple arrays into a single unified array
 
-***you can see the NumPy sheet cheat in this link : https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf
+
+***you can see the NumPy sheet cheat in this link : https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf***
+
 
 
 ----------------------------------------------------------------------------------------------------------------------
