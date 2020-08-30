@@ -17,7 +17,7 @@ Read 9    | ***dunder methods / probability  [go to]( https://osama-yousef.githu
 Read 10   | ***stacks and queues [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-10 )***
 
 Read 11   | ***Data science / Jupyter Lab / NumPy  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-11 )***
-Read 12   | 
+Read 12   | ***Pandas  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-12)***
 Read 13   |  
 Read 14   | 
 Read 15   | 
