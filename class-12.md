@@ -105,7 +105,7 @@ changed, but, for example, columns can be inserted into a DataFrame
 
   * `data['column_numerical'].plot()`
   * `data['column_numerical'].hist()`
-  * `%matplotlib inline/
+  * `%matplotlib inline/`
   
 * Updating the data
   * `data.loc[8, 'column_1'] = 'english'`
