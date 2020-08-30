@@ -32,6 +32,7 @@ both easy and intuitive.
 
  
   * DataFrame (2-dimensional) (  General 2D labeled, size-mutable tabular structure with potentially heterogeneously-typed column )  
+  --------------------------------------------------------------------------------------------------------------------------------------------------
   
 * `Pandas` handle the vast majority of typical use cases in finance, statistics, social science, and many areas of engineering
 * `pandas` is built on top of NumPy and is intended to integrate well within a scientific computing environment with many other 3rd party libraries.
@@ -69,7 +70,7 @@ both easy and intuitive.
 
 
   * Time series-specific functionality: date range generation and frequency conversion, moving window statistics, date shifting and lagging.
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 * `pandas` is a dependency of statsmodels, making it an important part of the statistical computing ecosystem in Python.
 
