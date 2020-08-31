@@ -47,7 +47,7 @@ If you see structure in your data, that means your model is not capturing some t
   * Check the results of model fitting to know whether the model is satisfactory.
 
   * Apply the model for predictions.
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 * Types(cases) of the linear ewgression :
   * Multiple Linear Regression With scikit-learn
 
