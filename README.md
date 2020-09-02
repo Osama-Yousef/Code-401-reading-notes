@@ -20,7 +20,7 @@ Read 11   | ***Data science / Jupyter Lab / NumPy  [go to]( https://osama-yousef
 Read 12   | ***Pandas  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-12)***
 Read 13   | ***Linear Regression in Python  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-13)***
 Read 14   | ***seaborn / matplotlib / Bokeh  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-14)***
-Read 15   | 
+Read 15   | ***Trees  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-15)***
 Read 16   |     
 Read 17   |     
 Read 18   |     
