@@ -15,13 +15,12 @@ Read 7    | ***Global scope / global statement / nonlocal statement  [go to]( ht
 Read 8    | ***List Comprehensions in Python  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-08 )***
 Read 9    | ***dunder methods / probability  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-09 )***
 Read 10   | ***stacks and queues [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-10 )***
-
 Read 11   | ***Data science / Jupyter Lab / NumPy  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-11 )***
 Read 12   | ***Pandas  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-12)***
 Read 13   | ***Linear Regression in Python  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-13)***
 Read 14   | ***seaborn / matplotlib / Bokeh  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-14)***
 Read 15   | ***Trees  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-15)***
-Read 16   |     
+Read 16   | ***Data Science / Machine Learning / Data Wrangling  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-16)***
 Read 17   |     
 Read 18   |     
 Read 19   |    
