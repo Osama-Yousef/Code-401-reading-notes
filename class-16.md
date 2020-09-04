@@ -135,7 +135,10 @@ aren’t hidden tricks and secrets to uncover.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+## data wrangling
+* is the process of reshaping, aggregating, separating, or otherwise transforming your data from one format to a more useful one.
+* To know how to do this , see this tutorial on this link : https://elitedatascience.com/python-data-wrangling-tutorial
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
  
