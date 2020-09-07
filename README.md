@@ -22,6 +22,6 @@ Read 14   | ***seaborn / matplotlib / Bokeh  [go to]( https://osama-yousef.githu
 Read 15   | ***Trees  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-15)***
 Read 16   | ***Data Science / Machine Learning / Data Wrangling  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-16)***
 Read 17   | ***Web Scraping / Beautiful Soup  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-17)***
-Read 18   |     
+Read 18   | ***Ceasar Cipher / Cryptography  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-18)***
 Read 19   |    
 Read 20   | 
