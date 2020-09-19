@@ -41,7 +41,11 @@ DjangoCons in the US, Europe, Australia, and Africa in 2020 for the first time
 * `Django` : is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes
 care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open
 source, has a thriving and active community, great documentation, and many options for free and paid-for support. 
+
+
 ***Django helps you write software that is:***
+
+
   * Complete : provides almost everything developers might want to do "out of the box". Because everything you need is part of the one "product", it all works 
   seamlessly together, follows consistent design principles
 
