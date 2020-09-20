@@ -25,3 +25,9 @@ Read 17   | ***Web Scraping / Beautiful Soup  [go to]( https://osama-yousef.gith
 Read 18   | ***Ceasar Cipher / Cryptography  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-18)***
 Read 19   | ***Python Regular Expressions / shutil / Watchdog  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-19)***
 Read 26   | ***Intro to Django  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-26)***
+Read 27   | ***Django Models / Django Admin  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-27)***
+Read 28   | 
+Read 29   | 
+Read 30   | 
+Read 31   | 
+Read 32   | 
