@@ -31,3 +31,20 @@ Read 29   | ***Django Custum User Model  [go to]( https://osama-yousef.github.io
 Read 30   | ***Hash Tables  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-30)***
 Read 31   | ***Docker / Library website and API's  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-31)***
 Read 32   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 33   | ***Json Web Token  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-33)***
+Read 34   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 35   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 36   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 37   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 38   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 39   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 40   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 41   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 42   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 43   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 44   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 45   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 46   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 47   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+Read 48   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
+
