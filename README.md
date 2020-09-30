@@ -33,7 +33,7 @@ Read 31   | ***Docker / Library website and API's  [go to]( https://osama-yousef
 Read 32   | ***DRF Permissions / DRF Generic Views  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-32)***
 Read 33   | ***Json Web Token  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-33)***
 Read 34   | ***SSH / Django Settings Best Practices  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-34)***
-Read 35   | 
+Read 35   | ***Graphs  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-35)***
 Read 36   | 
 Read 37   | 
 Read 38   | 
