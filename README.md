@@ -37,7 +37,7 @@ Read 35   | ***Graphs  [go to]( https://osama-yousef.github.io/Code-401-reading-
 Read 36   | ***Whiteboard Advice / 7 tips to ace a programming interview  [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-36)***
 Read 37   | ***React [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-37)***
 Read 38   | ***React part 2 [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-38)***
-Read 39   | 
+Read 39   | ***React Router / NextJs / React Styling [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-39)***
 Read 40   | 
 Read 41   |
 Read 42   | 
