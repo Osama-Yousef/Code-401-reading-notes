@@ -39,7 +39,7 @@ Read 37   | ***React [go to]( https://osama-yousef.github.io/Code-401-reading-no
 Read 38   | ***React part 2 [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-38)***
 Read 39   | ***React Router / NextJs / React Styling [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-39)***
 Read 40   | 
-Read 41   |
+Read 41   | ***Web Application Security / Django Security [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-41)***
 Read 42   | 
 Read 43   | 
 Read 44   | 
