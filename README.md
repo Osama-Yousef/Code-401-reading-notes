@@ -41,7 +41,7 @@ Read 39   | ***React Router / NextJs / React Styling [go to]( https://osama-yous
 Read 40   | 
 Read 41   | ***Web Application Security / Django Security [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-41)***
 Read 42   | ***Dunder methods / generators / iterators [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-42)***
-Read 43   | 
+Read 43   | ***NextJS Deployment/ Elephant SQL [go to]( https://osama-yousef.github.io/Code-401-reading-notes/class-43)***
 Read 44   | 
 Read 45   | 
 Read 46   | 
